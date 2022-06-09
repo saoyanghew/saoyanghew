@@ -2,7 +2,7 @@ Hi! My name is Sao Yang.
 
 I work at an insurance company as an actuarial analyst, and I am completing my professional qualifications with the Actuaries Institute as well. 
 
-I am educated by Monash University, with a BCom in Actuarial Science, and a BCom (Hons) in Econometrics. I have also garnered extensive knowledge in financial mathematics through the Department of Mathematics and Statistics at Monash - and can help with many financial mathematics/stochastic process related items!
+I am educated by Monash University, with a BCom in Actuarial Science and a BCom (Hons) in Econometrics. I have also garnered extensive knowledge in financial mathematics through the Department of Mathematics and Statistics at Monash - and can help with many financial mathematics/stochastic process related items!
 
 This is a space where I provide and share code on items related to areas of research that I'm interested in: actuarial studies, financial and insurance mathematics, and econometric methods. 
 
