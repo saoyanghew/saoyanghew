@@ -6,7 +6,7 @@ I am educated in Monash University, with a BCom in Actuarial Science and a BCom 
 
 This is a space where I provide and share code on items related to areas of research that I'm interested in: actuarial studies, financial and insurance mathematics, and econometric methods. 
 
-I code in R, Python, SQL and Julia, C++, and have extensive knowledge in other proprietary software for statistical modelling as well! This includes Stata, MATLAB, EViews, SAS and more. 
+I code in R, Python, SQL, Julia, and C++, and have extensive knowledge in other proprietary software for statistical modelling as well! This includes Stata, MATLAB, EViews, SAS and more. 
 
 I am also keen to learn more about other areas that employ mathematical modelling and statistical methods - e.g., infectious diseases modelling, social network analysis and computational neuroscience. 
 
